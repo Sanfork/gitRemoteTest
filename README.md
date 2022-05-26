@@ -1,3 +1,2 @@
 # gitRemoteTest
-Just test
 haha
