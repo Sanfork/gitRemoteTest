@@ -4,3 +4,7 @@ void main(void){
     printf("test");
     printf("test");
 }
+
+void checkout(){
+
+}
