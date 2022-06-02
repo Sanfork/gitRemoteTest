@@ -7,5 +7,5 @@ void main(void){
 }
 
 void checkout(){
-
+    printf("check");
 }
